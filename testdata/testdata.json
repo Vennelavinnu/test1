@@ -1,0 +1,14 @@
+{
+ "Testdata1": {
+  "goingto": "NewDelhi",
+  "goingfrom": "JKF",
+  "Date": "08/02/2019",
+  "stops": "1 stops"
+ },
+ "Testdata2": {
+  "goingto": "NYC",
+  "goingfrom": "SFO",
+  "Date": "09/02/2019",
+  "stops": "2 stops"
+ }
+}
